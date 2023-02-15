@@ -1,0 +1,33 @@
+Consignes:
+
+1. modifier 3 vidéos et commentaires
+
+2. changer son nom
+
+3. changer la coleur de la barre latérale
+
+4. changer la couleur de son nom (hexadécimal)
+
+
+Programme
+
+09.30   AR Ganshoren
+09.45   Lycée la Retraite
+10.00   Lycée la Retraite
+10.15   Collège Jean 23
+
+PAUSE
+
+10.45   Collège Jean 23
+11.00   Institut Montjoie
+11.15   Institut Montjoie
+
+PAUSE
+
+12.45   Institut de la Sainte-Famille d'Helmet
+13.00   Cardinal Mercier
+13.00   Cardinal Mercier
+13.45   IEJ
+14.00   Institut-Notre-Dame de Lourdes
+14.15   Institut-Notre-Dame de Lourdes
+14.30   AR Ganshoren
