@@ -5,16 +5,16 @@ Consignes:
 2. adapter les titres placés au dessus de la video
 
 20/40
-2. ajouter 3 commentaires
-3. changer le nom de l'équipe
+3. ajouter 3 commentaires
+4. changer le nom de l'équipe
 
 30/40
-4. changer la couleur de la barre latérale (en texte)
-5. changer la couleur de son nom (en hexadécimal)
+5. changer la couleur de la barre latérale (en texte)
+6. changer la couleur de son nom (en hexadécimal)
 
 40/40
-6. modifier le logo "EFP-SFPME" par celle de votre école (ou provenant du site de votre école)
-7. ajouter une 4e section, video et commentaire
+7. modifier le logo "EFP-SFPME" par celle de votre école (ou provenant du site de votre école)
+8. ajouter une 4e section, video et commentaire
 
 
 
